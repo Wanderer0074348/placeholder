@@ -6,7 +6,7 @@ export default function Home() {
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-900">
       <main className="max-w-4xl mx-auto px-6 py-16">
         <div className="mb-12">
-          <h1 className="text-5xl font-bold mb-4 text-zinc-900 dark:text-zinc-50">Mahin Poptani</h1>
+          <h1 className="text-5xl font-bold mb-4 text-zinc-900 dark:text-zinc-50">Sheikh Najam Malik</h1>
           <p className="text-2xl text-zinc-600 dark:text-zinc-400">Aspiring AI Engineer</p>
           <p className="text-lg text-zinc-500 dark:text-zinc-500 mt-2">Final Year Student</p>
         </div>
